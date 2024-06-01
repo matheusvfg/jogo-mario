@@ -1,9 +1,8 @@
-# Game_Mario
+# Jogo_Mario
 ## Iniciar Projeto
+## git clone matheusvfg/jogo-mario
 ## npm install 
 ## npm start
-# Jogabilidade
-## Aplicação simples, ela possui um botão para pular.
-## Desvie dos canos na tela, evitando a colisão.
-## Caso colida, é disparado um alerta, clique em "ok" 
-## e continue sua jogatina!
+## ionic serve
+# Maneira de jogar:Pule e desvie dos obstaculos, ao colidir, ira disparar um botão de alerta.
+## Clique em "Ok" para recomeçar o jogo.
