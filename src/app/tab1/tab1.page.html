@@ -1,0 +1,25 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Tab 1
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Tab 1</ion-title>
+      
+    </ion-toolbar>
+  </ion-header>
+    <ion-card class="game-board">
+      <img src="./assets/images/clouds.png" class="clouds">
+      <img src="./assets/images/mario.gif" class="mario">
+      <img src="./assets/images/pipe.png" class="pipe" >
+    </ion-card>
+    <ion-card class="botao">
+<button class="botao-redondo" (click)="jump()">Pular</button>
+    </ion-card>
+    
+</ion-content>
