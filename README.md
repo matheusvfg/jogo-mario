@@ -1,4 +1,4 @@
-# Jogo_Mario
+# Jogo Mario
 ## Iniciar Projeto
 ## git clone matheusvfg/jogo-mario
 ## npm install 
